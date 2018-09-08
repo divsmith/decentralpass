@@ -1,0 +1,7 @@
+# Reddit config data
+
+CLIENT_ID = "SzkMCroTY1iKKQ"
+CLIENT_SECRET = "5i6CxVk1VUzbHbsVMDd8tVXp1Jo"
+REDDIT_USERNAME = "Holyshatots"
+REDDIT_PASSWORD = "6JoC6dHAftsQ"
+REDDIT_USERAGENT = "Redi-Bot"
